@@ -1,12 +1,9 @@
 #!/usr/bin/python3
 """
-This module defines a Rectangle class.
+New class Rectangle
 """
 
 
 class Rectangle:
-        """
-            Represents a Rectangle
-                """
-
-                    pass
+        """ Rectangle class empty """
+            pass
