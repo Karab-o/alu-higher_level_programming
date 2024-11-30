@@ -1,1 +1,1 @@
-# Python - Network #0
+A directory for the intranet project: Python - Network #0
